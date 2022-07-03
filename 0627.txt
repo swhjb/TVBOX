@@ -1,7 +1,7 @@
 
 {
 "spider": "https://raw.iqiq.io/swhjb/TVBOX/main/0701apple.jar",
-//  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
 "sites":[
 
@@ -24,10 +24,10 @@
 {"key":"csp_Juzi","name":"🐼橘子(SP)","type":3,"api":"csp_Juzi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"🐼蓝光(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mjxq","name":"🐼美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Tkys","name":"🐼天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_N0ys","name":"🐼1090(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Qicui","name":"🐼奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Subaibai","name":"🐼素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1},
+// {"key":"csp_Tkys","name":"🐼天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+// {"key":"csp_N0ys","name":"🐼1090(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1},
+// {"key":"csp_Qicui","name":"🐼奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1},
+//  {"key":"csp_Subaibai","name":"🐼素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_Ikan","name":"🐼爱看(SP)","type":3,"api":"spider_Ikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key":"csp_大米星球","name":"大米(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a13-dmxq.js"},
