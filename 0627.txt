@@ -36,6 +36,9 @@
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 
 //
+{"key":"csp_xpath_2gangju","name":"🦋爱港剧","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/2gangju.json"},
+{"key":"csp_xpath_lezhutv","name":"🦋乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/lezhutv.json"},
+{"key":"csp_xpath_xqmi","name":"🦋小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/xqmi.json"},
 {"key": "csp_Blixs"      ,"name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bliyc"      ,"name":"演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blidw"      ,"name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -70,7 +73,6 @@
 {"key":"csp_xpath_saohuo","name":"🦋骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/saohuotv.json"},
 {"key":"csp_xpath_xiaoxiong","name":"🦋小熊影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/xiaoxiong.json"},   
 {"key":"csp_xpath_nmys","name":"🦋农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/nmys2.json"},
-{"key":"csp_xpath_2gangju","name":"🦋爱港剧","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/2gangju.json"},
 {"key":"csp_xpath_lmys","name": "🦋蓝莓影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/lmys.json"},
 {"key":"csp_xpath_wnvod","name": "🦋万能影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath//wnvod.json"},
 {"key":"csp_xpath_kyikan","name": "🦋看一看","type": 3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/kyikan.json"},
@@ -80,7 +82,6 @@
 {"key":"csp_xpath_zj883","name":"🦋追剧网","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/zj883.json"},
 {"key":"csp_xpath_lkvod","name":"🦋来看点播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/lkvod.json"},
 {"key":"csp_yinghua","name":"🦋樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/yinghua2.json"},
-{"key":"csp_xpath_xqmi","name":"🦋小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/xqmi.json"},
 {"key":"csp_xpath_vip1280","name":"🦋VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/vip1280.json"},
 {"key":"csp_xpath_zzzlike","name":"🦋周末电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/zzzlike.json"},
 {"key":"csp_XPath_bidiys","name":"🦋哔嘀影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/bidiys2.json"},
@@ -96,7 +97,6 @@
 {"key":"csp_xpath_tjyy","name":"🦋奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/huigutongying.json"},
 {"key":"csp_xpath_dy888","name":"🦋电影888","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/dy888.json"},
 {"key":"csp_xpath_aidi","name":"🦋爱迪影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/aidi.json"},
-{"key":"csp_xpath_lezhutv","name":"🦋乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/lezhutv.json"},
 {"key":"csp_xpath_juhuang","name":"🦋剧荒TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/juhuang.json"},
 {"key":"csp_xpath_doujiaow","name":"🦋豆角网","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/doujiaow.json"},
 {"key":"csp_xpath_duboku","name":"🦋独播库","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/duboku2.json"},
