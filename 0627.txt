@@ -1,6 +1,6 @@
 
 {
-"spider": "https://github.com/swhjb/TVBOX",
+"spider": "https://gk983.github.io/0701.jar",
 //  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
 "sites":[
