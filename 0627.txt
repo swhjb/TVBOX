@@ -1,6 +1,6 @@
 
 {
-"spider": "https://raw.iqiq.io/swhjb/TVBOX/main/007.jar",
+"spider": "https://raw.iqiq.io/swhjb/TVBOX/blob/main/007.jarr",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
 "sites":[
